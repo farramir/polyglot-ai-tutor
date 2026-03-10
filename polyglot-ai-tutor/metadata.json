@@ -1,0 +1,5 @@
+{
+  "name": "Polyglot AI Tutor",
+  "description": "A personalized language learning assistant that creates structured lessons based on your choice of topic or random suggestions, tracking your grammar progress and vocabulary history across multiple languages.",
+  "requestFramePermissions": []
+}
